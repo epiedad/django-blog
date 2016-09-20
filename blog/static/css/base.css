@@ -1,0 +1,6 @@
+body { font-family: "Helvetica Neua", Arial sans serif; font-size: 14px }
+h1{ color:black; border-bottom: 1px solid black }
+h2{ color:blue; text-decoration: none }
+a, a:active { text-decoration: none; color:blue }
+.date{ font-size: 8px; text-decoration: italic; color: gray }
+.pagination { margin:40px 0; font-weight: bold }

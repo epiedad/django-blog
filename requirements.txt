@@ -1,0 +1,7 @@
+Django==1.9.9
+django-haystack==2.5.0
+django-taggit==0.21.2
+Markdown==2.6.6
+pysolr==3.5.0
+pytz==2016.6.1
+requests==2.11.1
